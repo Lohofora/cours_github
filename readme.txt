@@ -9,3 +9,4 @@ mon cours est celui ci
 >>>>>>> parent of e1d537b (Update readme.txt)
 
 test du merge conflict 1
+test du merge conflict 3
