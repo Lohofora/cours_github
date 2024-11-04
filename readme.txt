@@ -14,3 +14,6 @@ test du merge conflict 3
 
 test du merge conflict 2
 
+commit 1
+commit 2
+commit 3
